@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1700069673 source:c:\temp\ws-codeblocks\faculdade\estruturas\structninho.c
+	<stdio.h>
+	<stdlib.h>
+
+1700079035 source:c:\temp\ws-codeblocks\faculdade\estruturas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1700071542 source:c:\temp\ws-codeblocks\faculdade\estruturas\structv.c
+
+1700074064 source:c:\temp\ws-codeblocks\faculdade\estruturas\matrizstruct.c
+	<conio.h>
+

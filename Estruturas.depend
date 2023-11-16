@@ -3,7 +3,7 @@
 	<stdio.h>
 	<stdlib.h>
 
-1700079035 source:c:\temp\ws-codeblocks\faculdade\estruturas\main.c
+1700097934 source:c:\temp\ws-codeblocks\faculdade\estruturas\main.c
 	<stdio.h>
 	<stdlib.h>
 
@@ -11,4 +11,32 @@
 
 1700074064 source:c:\temp\ws-codeblocks\faculdade\estruturas\matrizstruct.c
 	<conio.h>
+
+1700079193 source:c:\temp\ws-codeblocks\faculdade\estruturas\union1.c
+	<string.h>
+
+1700081008 source:c:\temp\ws-codeblocks\faculdade\estruturas\unionstruct.c
+
+1700081690 source:c:\temp\ws-codeblocks\faculdade\estruturas\binario.c
+
+1700084215 source:c:\temp\ws-codeblocks\faculdade\estruturas\sizeof.c
+
+1700084650 source:c:\temp\ws-codeblocks\faculdade\estruturas\endereco.c
+
+1700086050 source:c:\temp\ws-codeblocks\faculdade\estruturas\unionan.c
+	<string.h>
+
+1700087644 source:c:\temp\ws-codeblocks\faculdade\estruturas\ponteirocons.c
+
+1700089748 source:c:\temp\ws-codeblocks\faculdade\estruturas\ponteiros.c
+
+1700091120 source:c:\temp\ws-codeblocks\faculdade\estruturas\ptrvar.c
+
+1700091623 source:c:\temp\ws-codeblocks\faculdade\estruturas\ptrvar1.c
+
+1700092558 source:c:\temp\ws-codeblocks\faculdade\estruturas\ptroperacoes.c
+
+1700097264 source:c:\temp\ws-codeblocks\faculdade\estruturas\matriz.c
+
+1700097406 source:c:\temp\ws-codeblocks\faculdade\estruturas\pmatriz.c
 

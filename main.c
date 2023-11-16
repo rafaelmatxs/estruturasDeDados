@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 int main()
 {
-    union1();
+    pmatriz2();
     /*
     printf("Hello World!\n");
     system("PAUSE");

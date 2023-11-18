@@ -3,7 +3,7 @@
 	<stdio.h>
 	<stdlib.h>
 
-1700097934 source:c:\temp\ws-codeblocks\faculdade\estruturas\main.c
+1700240232 source:c:\temp\ws-codeblocks\faculdade\estruturas\main.c
 	<stdio.h>
 	<stdlib.h>
 
@@ -39,4 +39,19 @@
 1700097264 source:c:\temp\ws-codeblocks\faculdade\estruturas\matriz.c
 
 1700097406 source:c:\temp\ws-codeblocks\faculdade\estruturas\pmatriz.c
+
+1700097944 source:c:\temp\ws-codeblocks\faculdade\estruturas\pmatriz2.c
+
+1700105405 source:c:\temp\ws-codeblocks\faculdade\estruturas\pmedia.c
+
+1700145507 source:c:\temp\ws-codeblocks\faculdade\estruturas\strprocura.c
+
+1700153369 source:c:\temp\ws-codeblocks\faculdade\estruturas\listasimplesmenteencadeada.c
+	<locale.h>
+
+1700238917 source:c:\temp\ws-codeblocks\faculdade\estruturas\pcadeiacharconst.c
+
+1700240472 source:c:\temp\ws-codeblocks\faculdade\estruturas\pdiasemana.c
+	<string.h>
+	<conio.h>
 

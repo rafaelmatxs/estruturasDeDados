@@ -4,7 +4,7 @@
 
 int main()
 {
-    pmatriz2();
+    pstrsort();
     /*
     printf("Hello World!\n");
     system("PAUSE");

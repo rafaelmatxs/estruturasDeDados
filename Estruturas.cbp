@@ -31,7 +31,67 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="binario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="endereco.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="listasimplesmenteencadeada.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="matrizstruct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pmatriz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pmatriz2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pmedia.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ponteirocons.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ponteiros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptroperacoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptrvar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ptrvar1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sizeof.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="strprocura.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structninho.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="structv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="union1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="unionan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="unionstruct.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>

@@ -3,7 +3,7 @@
 	<stdio.h>
 	<stdlib.h>
 
-1700240232 source:c:\temp\ws-codeblocks\faculdade\estruturas\main.c
+1700435407 source:c:\temp\ws-codeblocks\faculdade\estruturas\main.c
 	<stdio.h>
 	<stdlib.h>
 
@@ -54,4 +54,15 @@
 1700240472 source:c:\temp\ws-codeblocks\faculdade\estruturas\pdiasemana.c
 	<string.h>
 	<conio.h>
+
+1700241667 source:c:\temp\ws-codeblocks\faculdade\estruturas\pstrsort.c
+	<string.h>
+
+1700429336 source:c:\temp\ws-codeblocks\faculdade\estruturas\foguete.c
+	<conio.h>
+
+1700431737 source:c:\temp\ws-codeblocks\faculdade\estruturas\ptrfunc.c
+
+1700435443 source:c:\temp\ws-codeblocks\faculdade\estruturas\ptrgets.c
+	<stdio.h>
 
